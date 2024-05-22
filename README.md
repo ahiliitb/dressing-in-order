@@ -76,7 +76,7 @@ To start training, please follow the [installation instruction in GFLA](https://
 Then run ```pip install -r requirements.txt```.
 
 ### Download pretrained weights
-The pretrained weights can be found [here](https://drive.google.com/drive/folders/1-7DxUvcrC3cvQV67Z2QhRdi-9PMDC8w9?usp=sharing). Please unzip them under ```checkpoints/``` directory.
+The pretrained weights can be found [here](https://drive.google.com/uc?id=1myhq-p0c8zz7ey7p_httzkemie5zunlb). Please unzip them under ```checkpoints/``` directory.
 
 *(The checkpoints above are reproduced, so there could be slightly difference in quantitative evaluation from the reported results. To get the original results, please check our released generated images [here](https://drive.google.com/drive/folders/1GOQVMhBKvANKutLDbzPbE-Zrb6ai9Eo8?usp=sharing).)*
 
